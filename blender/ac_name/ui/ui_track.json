@@ -1,0 +1,11 @@
+{
+  "name": "Name of the track",
+  "description": "Description",
+  "tags": ["AutoX, FSAE, Kennesaw Motorsports,"],
+  "country": "USA",
+  "city": "Michigan International Speedway, MI",
+  "pitboxes": "24",
+  "year": 2025,
+  "author": "Chance",
+  "version": "0.9"
+}
